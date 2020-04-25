@@ -1,0 +1,9 @@
+Bias variance
+Bagging n boosting
+Sampling techniques
+Random Forest
+gradient Descent
+Feature Selection /Feature Engineering /Exploratory data analysis
+Evaluation Metrics /Sampling Technique
+Stat Analysis Basics
+gradient boosting (decision tree)
