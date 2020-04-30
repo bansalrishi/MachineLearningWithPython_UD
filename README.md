@@ -20,8 +20,9 @@
 **Chapter 5 :** [Deep Learning/Neural Networks]  
       -  [Artificial Neural Networks](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/05.%20Artificial%20Neural%20Network.ipynb)  
       -  [Convolutional Neural Networks](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/05.%20Convolutional%20Neural%20Network.ipynb)  
-**Chapter 6 :** [Dimensionality Reduction](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/06.%20Dimentionality%20Reduction.ipynb)  
-      -  PCA, LDA  
+**Chapter 6 :** [Dimensionality Reduction]  
+      - [Feature Extraction](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/06.%20Dimentionality%20Reduction.ipynb)  
+      - [Feature Selection](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/06.%20Feature%20Selection.ipynb)  
 **Chapter 7 :** [Natural Language Processing]  
       -  [Text Processing](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/07.%20Text%20Processing.ipynb)  
       -  [Autosummarize Article](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/07.%20Summarize%20Article.ipynb)    
