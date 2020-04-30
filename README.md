@@ -1,4 +1,4 @@
-# MachineLearningWithPython
+# MachineLearningWithPython_UD
 **Chapter 1 :** [Preprocessing Data](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/01.%20Data%20Pre-Processing.ipynb)  
 **Chapter 2 :** [Supervised Learning - Regression]  
       -  [Simple Linear Regression](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/02.%20Simple%20Linear%20Regression.ipynb)  
