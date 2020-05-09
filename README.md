@@ -1,6 +1,6 @@
 # My Courses:
 ### Udemy
-https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/
+Free to Join: https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/
 
 
 
