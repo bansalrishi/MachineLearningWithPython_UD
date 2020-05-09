@@ -1,3 +1,14 @@
+# My Courses:
+### Udemy
+Free to Join: https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/
+
+
+
+
+
+
+<hr>
+
 # MachineLearningWithPython_UD
 **Chapter 1 :** [Preprocessing Data](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/01.%20Data%20Pre-Processing.ipynb)  
 **Chapter 2 :** [Supervised Learning - Regression]  
