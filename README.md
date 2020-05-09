@@ -2,7 +2,7 @@
 ### Udemy
 Free to Join: https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/
 
-
+My Blog: https://machine-arena.blogspot.com/  
 
 
 
