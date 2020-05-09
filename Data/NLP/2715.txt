@@ -1,0 +1,2 @@
+
+#Amazoncart lets you add products to your Amazon cart by replying on Twitter: The hashtag #AmazonCart was unveiled earlier this year, and according to Dowitcher Designs, it s currently used in around 5,000 tweets per day. How it works: Someone posts an Amazon product on Twitter, you reply to that tweet with #AmazonCart and Amazon puts the product directly in your cart. Amazon is doing its part to promote #AmazonCart with Vine videos and pictures all tagged with #AmazonCart.   
