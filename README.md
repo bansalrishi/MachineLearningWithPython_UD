@@ -4,6 +4,7 @@ Free to Join: https://www.udemy.com/course/fundamentals-of-machine-learning-hind
 
 My Blog: https://machine-arena.blogspot.com/  
 
+YouTube Channel: https://www.youtube.com/channel/UC1kn4liyEj4qmDgkSvOmNZQ/playlists
 
 
 
