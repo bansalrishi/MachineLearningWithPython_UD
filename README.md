@@ -1,6 +1,6 @@
 # My Courses:
 ### Udemy
-Free to Join: https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/
+Free to Join: https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/  
 Live Session Registration: https://docs.google.com/forms/d/e/1FAIpQLSckw5W7GVfwyBeZVCtuJLrXcbEey4EZ2gHGW1LgGWNLaSmoHQ/viewform?usp=sf_link
 
 My Blog: https://machine-arena.blogspot.com/  
