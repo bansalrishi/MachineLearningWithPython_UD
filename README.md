@@ -1,7 +1,6 @@
 # My Courses:
 ### Udemy
 Free to Join: https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/  
-Live Session Registration(Only for Udemy Students): [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSckw5W7GVfwyBeZVCtuJLrXcbEey4EZ2gHGW1LgGWNLaSmoHQ/viewform?usp=sf_link)  
 
 My Blog: https://machine-arena.blogspot.com/  
 
@@ -51,3 +50,5 @@ YouTube Channel: https://www.youtube.com/channel/UC1kn4liyEj4qmDgkSvOmNZQ/playli
        
       
 
+
+Live Session Registration, if link is not working it means offer is expired(Only for Udemy Students who completed 100% course): [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSckw5W7GVfwyBeZVCtuJLrXcbEey4EZ2gHGW1LgGWNLaSmoHQ/viewform?usp=sf_link)  
