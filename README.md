@@ -1,6 +1,8 @@
 # My Courses:
 ### Udemy
-Free to Join: https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/  
+Free to Join:   
+https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/  
+https://www.udemy.com/course/deep-learning-hindi-python/   
 
 My Blog: https://machine-arena.blogspot.com/  
 
