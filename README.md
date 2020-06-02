@@ -39,6 +39,7 @@ YouTube Channel: https://www.youtube.com/channel/UC1kn4liyEj4qmDgkSvOmNZQ/playli
       - [Feature Selection](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/06.%20Feature%20Selection.ipynb)  
 **Chapter 7 :** [Natural Language Processing]  
       -  [Text Processing](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/07.%20Text%20Processing.ipynb)  
+      -  [Hashing and Spam](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/07.%20Hashing%20and%20Spam.ipynb)  
       -  [Autosummarize Article](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/07.%20Summarize%20Article.ipynb)    
       -  [Classify Article](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/07.%20Classify%20Article.ipynb)    
 **Chapter 8 :** [Reinforcement Learning]  
