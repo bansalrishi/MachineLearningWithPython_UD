@@ -3,6 +3,7 @@
 Free to Join:   
 https://www.udemy.com/course/fundamentals-of-machine-learning-hindi/  
 https://www.udemy.com/course/deep-learning-hindi-python/   
+https://www.udemy.com/course/natural-language-processing-python/  
 
 My Blog: https://machine-arena.blogspot.com/  
 
