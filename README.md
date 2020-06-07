@@ -51,7 +51,4 @@ YouTube Channel: https://www.youtube.com/channel/UC1kn4liyEj4qmDgkSvOmNZQ/playli
 **Chapter 10 :** [Computer Vision]  
       -  [ImageFeatureExtraction](http://localhost:8888/notebooks/Github/MachineLearningWithPython_UD/10.%20ImageFeatureExtraction.ipynb)  
        
-      
 
-
-Live Session Registration, if link is not working it means offer is expired(Only for Udemy Students who completed 100% course): [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSckw5W7GVfwyBeZVCtuJLrXcbEey4EZ2gHGW1LgGWNLaSmoHQ/viewform?usp=sf_link)  
