@@ -30,6 +30,7 @@ YouTube Channel: https://www.youtube.com/channel/UC1kn4liyEj4qmDgkSvOmNZQ/playli
 **Chapter 4 :** [UnSupervised Learning](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/04.%20Unsupervised%20Learning%20-%20Clustering.ipynb)  
       -  [K-Means Clustering](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/04.%20K-Means%20Clustering.ipynb)  
       -  [Hierarchical Clustering](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/04.%20Hierarchical%20Clustering.ipynb)  
+      -  [Density based Clustering](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/04.%20Density%20Based%20Clustering.ipynb)  
       -  [Apriori Association](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/04.%20Apriori%20Association.ipynb)  
       -  [Eclat - Association](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/04%20Eclat%20Association.ipynb)  
 **Chapter 5 :** [Deep Learning/Neural Networks]  
