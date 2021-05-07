@@ -19,7 +19,7 @@ YouTube Channel: https://www.youtube.com/channel/UC1kn4liyEj4qmDgkSvOmNZQ/playli
       -  [Simple Linear Regression](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/02.%20Simple%20Linear%20Regression.ipynb)  
       -  [Multiple Linear Regression](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/02.%20Multiple%20Linear%20Regression.ipynb)   
       -  [Polynomial Regression](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/02.%20Polynomial%20Regression.ipynb)  
-      -  [K-Nearest Neighbour Regression](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/02.%20K%20-%20NN%20Regression.ipynb)
+      -  [K-Nearest Neighbour Regression](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/02.%20K%20-%20NN%20Regression.ipynb) 
       -  [Lasso-Ridge Regression](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/02.%20LassoRidge%20Regression.ipynb)  
       -  [Model Performance - Regression](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/02.%20Regression%20Model%20Performance.ipynb)    
  **Chapter 3 :** [Supervised Learning - Classification]  
