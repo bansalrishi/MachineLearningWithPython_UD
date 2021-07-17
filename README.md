@@ -48,8 +48,9 @@ YouTube Channel: https://www.youtube.com/channel/UC1kn4liyEj4qmDgkSvOmNZQ/playli
       -  [Upper Confidence Bound]  
       -  [Thompson Sampling]  
 **Chapter 9 :** [Ensemble Algorithm]  
+      -  [Bagging n Boosting](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/09.%20Ensemble%20Method%20Bagging%20and%20Boosting.ipynb)     
       -  [Random Forest](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/09.%20Random%20Forest.ipynb)  
-      -  [XGBoost]  
+      -  [Gradient Boosting](https://github.com/bansalrishi/MachineLearningWithPython_UD/blob/master/09.%20Gradient%20Boosting.ipynb)    
 **Chapter 10 :** [Computer Vision]  
       -  [ImageFeatureExtraction](http://localhost:8888/notebooks/Github/MachineLearningWithPython_UD/10.%20ImageFeatureExtraction.ipynb)  
        
